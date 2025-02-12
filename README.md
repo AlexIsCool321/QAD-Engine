@@ -1,2 +1,6 @@
 # QAD-Engine
-Quick And Dirty Engine
+Q.uick
+A.nd
+Dirty
+
+Game Engine
